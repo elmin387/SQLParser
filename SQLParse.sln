@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLParse", "SQLParse\SQLParse.csproj", "{DF24B0EF-8215-492C-B7CD-8D619E033C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSQLParseProject", "TestSQLParseProject\TestSQLParseProject.csproj", "{C27A07A3-3FB9-4594-A1BF-CC2B6DCA1A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF24B0EF-8215-492C-B7CD-8D619E033C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF24B0EF-8215-492C-B7CD-8D619E033C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF24B0EF-8215-492C-B7CD-8D619E033C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF24B0EF-8215-492C-B7CD-8D619E033C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27A07A3-3FB9-4594-A1BF-CC2B6DCA1A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27A07A3-3FB9-4594-A1BF-CC2B6DCA1A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27A07A3-3FB9-4594-A1BF-CC2B6DCA1A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27A07A3-3FB9-4594-A1BF-CC2B6DCA1A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7105B353-5105-4A52-A065-F2E02361D3D4}
+	EndGlobalSection
+EndGlobal
